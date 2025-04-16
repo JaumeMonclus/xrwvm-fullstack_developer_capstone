@@ -2,6 +2,8 @@
 # import requests
 import os
 from dotenv import load_dotenv
+from requests import get, post
+import requests
 
 load_dotenv()
 
